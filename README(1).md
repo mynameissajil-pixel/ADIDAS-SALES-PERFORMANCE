@@ -15,7 +15,7 @@ Landing page of the report with navigation buttons to all other pages, giving us
 A high-level summary of overall business performance — total sales, total profit, units sold, and total orders, along with key trend visuals for a quick snapshot of company health.
 
 
-![](OVERVIEW.png)
+
 
 ### 3. Sales Analysis
 A deep dive into sales performance — revenue trends over time, sales by product category, and comparison across different segments to identify top and bottom performers.
