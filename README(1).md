@@ -25,27 +25,27 @@ A deep dive into sales performance — revenue trends over time, sales by produc
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
 
-[![(ORDER_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/ORDER%20ANALYSIS.png)
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/ORDER%20ANALYSIS.png)
 
 ### 5. Profitability Analysis
 Breaks down profit margins and profitability by product, region, or retailer, helping identify which segments generate the most (and least) profit.
 
-[![](PROFITABILITY_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/PROFITABILITY%20ANALYSIS.png)
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/PROFITABILITY%20ANALYSIS.png)
 
 ### 6. Region Analysis
 Geographic breakdown of sales performance, comparing revenue and profit across different states/regions to highlight the strongest and weakest markets.
 
-[![](REGION_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/REGION%20ANALYSIS.png)
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/REGION%20ANALYSIS.png)
 
 ### 7. Customer Analysis
 Focuses on customer/retailer-level insights — top retailers by sales, customer segmentation, and purchasing behavior trends.
-[
-![](CUSTOMER_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/CUSTOMER%20ANALYSIS.png)
+
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/CUSTOMER%20ANALYSIS.png)
 
 ### 8. Insights and Recommendations
 Summarizes key findings from the analysis and provides actionable business recommendations based on the data.
 
-[![](INSIGHTS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/INSIGHTS%20.png)
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/INSIGHTS%20.png)
 
 ---
 
