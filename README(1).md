@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing Adidas sales performance across regi
 
 
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Home
 Landing page of the report with navigation buttons to all other pages, giving users a quick overview of what the dashboard offers.
@@ -49,7 +49,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 
 ---
 
-## 🗂️ Data Source
+##  Data Source
 
 - **Dataset:** *[Add source here — e.g., "Adidas US Sales Dataset (Kaggle)"]*
 
@@ -63,7 +63,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 - Sales by Retailer/Customer
 - Sales by Product Category
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI Desktop** — report building & visualization
 - **Power Query (M)** — data cleaning and transformation
