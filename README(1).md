@@ -20,7 +20,7 @@ A high-level summary of overall business performance — total sales, total prof
 A deep dive into sales performance — revenue trends over time, sales by product category, and comparison across different segments to identify top and bottom performers.
 
 
-![]([SALESANALYSIS.png](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/e8c95eb3eead146c65b50e2a872cebdefb3814f2/SALES%20ANALYSIS.png))
+[SALESANALYSIS.png](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/e8c95eb3eead146c65b50e2a872cebdefb3814f2/SALES%20ANALYSIS.png)
 
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
