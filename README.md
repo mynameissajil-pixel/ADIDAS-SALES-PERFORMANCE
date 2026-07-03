@@ -48,6 +48,11 @@ Summarizes key findings from the analysis and provides actionable business recom
 ![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/INSIGHTS%20.png)
 
 ---
+##  Dataset
+
+- 2,500,000+ units sold
+- 9,648 orders
+- Time period: 2020–2021.
 
 ##  Data Source
 
@@ -69,32 +74,37 @@ Summarizes key findings from the analysis and provides actionable business recom
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — calculated measures and KPIs
 
-## Key Business Insights
+---
 
-- **Strong Overall Sales:** Total sales reached **$899.9M**, demonstrating strong business performance and consistent market demand.
-- **Top Performing Region:** The **West** region recorded the highest sales and order volume, making it the company's best-performing market.
-- **Weakest Region:** The **Midwest** region contributed the lowest revenue, indicating significant growth opportunities.
-- **Best-Selling Product:** **Men's Street Footwear** generated the highest sales and profitability among all product categories.
-- **Lowest Profitability:** **Women's Athletic Footwear** recorded the lowest profit margin despite contributing to overall sales.
-- **Dominant Sales Channel:** The **In-store** channel outperformed both Online and Outlet channels, accounting for the largest share of total sales.
-- **Seasonal Trend:** Sales and profit declined during **Q4**, highlighting a noticeable seasonal slowdown in business performance.
+## Key Insights & Recommendations
+
+### 1. Regional Performance Gap
+- **Insight:** The **West region** leads all markets, generating **$269.94M** in sales (**30%** of total) across **2,448 orders** — nearly double the **Midwest's $135.8M (15%)**, the weakest-performing region.
+- **Recommendation:** Reallocate marketing spend toward the Midwest to close the regional revenue gap and drive balanced growth.
+
+### 2. Product Line Profitability Disparity
+- **Insight:** Among 6 product lines, **Men's Street Footwear** is the most profitable at **$82.8M (25%)** of total profit, while **Women's Athletic Footwear** trails at **$38.98M (12%)**.
+- **Recommendation:** Optimize pricing and product mix to boost margins on underperforming lines like Women's Athletic Footwear.
+
+### 3. Channel Dependency Risk
+- **Insight:** Across 6 retail partners and 3 sales channels, **in-store sales dominate at $356.64M (40%)** versus **online's $247.67M (28%)**.
+- **Recommendation:** Strengthen online sales channels to reduce over-reliance on physical retail and diversify revenue streams.
+
+### 4. Seasonal Q4 Slowdown
+- **Insight:** Sales declined **9.46% quarter-over-quarter** in Q4 2021, dropping from **$209.98M to $190.13M**.
+- **Recommendation:** Launch targeted promotional campaigns in Q4 to counteract seasonal slowdown.
+
+### 5. Retailer Concentration Risk
+- **Insight:** **West Gear** emerged as the top-performing retail partner, indicating heavy dependency on a single retailer.
+- **Recommendation:** Reduce retailer concentration risk by diversifying partnerships and strengthening underperforming retail relationships.
 
 ---
 
-## Key Recommendations
-
-- **Boost Midwest Sales:** Increase regional marketing, promotional campaigns, and distribution to improve sales performance in the Midwest.
-- **Reduce Q4 Decline:** Launch seasonal promotions, holiday discounts, and customer engagement campaigns to maintain Q4 sales.
-- **Expand High-Performing Products:** Increase inventory and marketing investment for **Men's Street Footwear** to maximize revenue and profitability.
-- **Strengthen Online Presence:** Enhance the online shopping experience and digital marketing efforts to increase e-commerce sales.
-- **Improve Low-Margin Products:** Optimize pricing, promotional strategies, and production costs for **Women's Athletic Footwear** to improve profitability.
-- **Prioritize High-Margin Categories:** Focus inventory planning and marketing resources on products that generate higher profit margins.
-- **Adopt Data-Driven Planning:** Use sales analytics for demand forecasting, inventory optimization, and strategic business decision-making.
+##  Overall Impact
+Delivered **7 data-driven insights** and corresponding recommendations to leadership, supporting strategic decisions to improve regional revenue balance, optimize product mix, and reduce channel/retailer dependency.
 
 ---
 
-## Project Outcome
 
-This dashboard enables stakeholders to monitor sales performance, identify regional and product trends, evaluate sales channels, and make data-driven decisions to improve revenue, profitability, and operational efficiency.
 
 
