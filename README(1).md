@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing Adidas sales performance across regi
 ### 1. Home
 Landing page of the report with navigation buttons to all other pages, giving users a quick overview of what the dashboard offers.
 
-![](HOME.png)
+[![](HOME.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/4466d60dc77bbf4f2067950496b65cec4fb1f28b/HOME.png)
 
 ### 2. Overview
 A high-level summary of overall business performance — total sales, total profit, units sold, and total orders, along with key trend visuals for a quick snapshot of company health.
