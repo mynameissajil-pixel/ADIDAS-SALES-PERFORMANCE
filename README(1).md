@@ -21,27 +21,27 @@ A high-level summary of overall business performance — total sales, total prof
 A deep dive into sales performance — revenue trends over time, sales by product category, and comparison across different segments to identify top and bottom performers.
 
 
-![](SALES ANALYSIS.png)
+![](SALES_ANALYSIS.png)
 
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
 
-![](ORDER ANALYSIS.png)
+![](ORDER_ANALYSIS.png)
 
 ### 5. Profitability Analysis
 Breaks down profit margins and profitability by product, region, or retailer, helping identify which segments generate the most (and least) profit.
 
-![](PROFITABILITY ANALYSIS.png)
+![](PROFITABILITY_ANALYSIS.png)
 
 ### 6. Region Analysis
 Geographic breakdown of sales performance, comparing revenue and profit across different states/regions to highlight the strongest and weakest markets.
 
-![](REGION ANALYSIS.png)
+![](REGION_ANALYSIS.png)
 
 ### 7. Customer Analysis
 Focuses on customer/retailer-level insights — top retailers by sales, customer segmentation, and purchasing behavior trends.
 
-![](CUSTOMER ANALYSIS.png)
+![](CUSTOMER_ANALYSIS.png)
 
 ### 8. Insights and Recommendations
 Summarizes key findings from the analysis and provides actionable business recommendations based on the data.
