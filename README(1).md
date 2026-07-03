@@ -14,31 +14,45 @@ Landing page of the report with navigation buttons to all other pages, giving us
 ### 2. Overview
 A high-level summary of overall business performance — total sales, total profit, units sold, and total orders, along with key trend visuals for a quick snapshot of company health.
 
+
+![](OVERVIEW.png)
+
 ### 3. Sales Analysis
 A deep dive into sales performance — revenue trends over time, sales by product category, and comparison across different segments to identify top and bottom performers.
+
+
+![](SALES ANALYSIS.png)
 
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
 
+![](ORDER ANALYSIS.png)
+
 ### 5. Profitability Analysis
 Breaks down profit margins and profitability by product, region, or retailer, helping identify which segments generate the most (and least) profit.
+
+![](PROFITABILITY ANALYSIS.png)
 
 ### 6. Region Analysis
 Geographic breakdown of sales performance, comparing revenue and profit across different states/regions to highlight the strongest and weakest markets.
 
+![](REGION ANALYSIS.png)
+
 ### 7. Customer Analysis
 Focuses on customer/retailer-level insights — top retailers by sales, customer segmentation, and purchasing behavior trends.
 
+![](CUSTOMER ANALYSIS.png)
+
 ### 8. Insights and Recommendations
 Summarizes key findings from the analysis and provides actionable business recommendations based on the data.
+
+![](INSIGHTS.png)
 
 ---
 
 ## 🗂️ Data Source
 
 - **Dataset:** *[Add source here — e.g., "Adidas US Sales Dataset (Kaggle)"]*
-- **Time period covered:** *[Add date range]*
-- **Data type:** *[Public/sample dataset or company data]*
 
 ## 📈 Key Metrics Tracked
 
