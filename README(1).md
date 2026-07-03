@@ -9,7 +9,7 @@ An interactive Power BI dashboard analyzing Adidas sales performance across regi
 ### 1. Home
 Landing page of the report with navigation buttons to all other pages, giving users a quick overview of what the dashboard offers.
 
-[![](HOME.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/4466d60dc77bbf4f2067950496b65cec4fb1f28b/HOME.png)
+![](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/4466d60dc77bbf4f2067950496b65cec4fb1f28b/HOME.png)
 
 ### 2. Overview
 A high-level summary of overall business performance — total sales, total profit, units sold, and total orders, along with key trend visuals for a quick snapshot of company health.
@@ -25,7 +25,7 @@ A deep dive into sales performance — revenue trends over time, sales by produc
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
 
-[![](ORDER_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/ORDER%20ANALYSIS.png)
+[![(ORDER_ANALYSIS.png)](https://github.com/mynameissajil-pixel/ADIDAS-SALES-PERFORMANCE/blob/fa64d34216245999641b79e50dfbc86a4ef0377b/ORDER%20ANALYSIS.png)
 
 ### 5. Profitability Analysis
 Breaks down profit margins and profitability by product, region, or retailer, helping identify which segments generate the most (and least) profit.
