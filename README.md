@@ -51,7 +51,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 
 ##  Data Source
 
-- **Dataset:** *[Add source here — e.g., "Adidas US Sales Dataset (Kaggle)"]*
+- **Dataset:** *[Adidas US Sales Datasets.xlsx]*
 
 ## 📈 Key Metrics Tracked
 
