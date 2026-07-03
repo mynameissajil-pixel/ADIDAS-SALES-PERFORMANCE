@@ -69,4 +69,58 @@ Summarizes key findings from the analysis and provides actionable business recom
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — calculated measures and KPIs
 
+# Key Business Insights
+
+### 1. Strong Overall Sales Performance
+- Total sales reached **$899.9M**, demonstrating strong overall business performance and healthy market demand.
+
+### 2. West Region Leads Sales
+- The **West** region generated the highest sales and order volume, making it the top-performing market.
+
+### 3. Midwest Region Needs Improvement
+- The **Midwest** region recorded the lowest sales contribution, highlighting opportunities for growth and expansion.
+
+### 4. Men's Street Footwear Drives Revenue
+- **Men's Street Footwear** is the highest-selling and most profitable product category.
+
+### 5. Women's Athletic Footwear Has Low Profitability
+- **Women's Athletic Footwear** contributes lower profit margins compared to other product categories.
+
+### 6. In-Store Channel Dominates
+- The **In-store** sales channel outperformed both Online and Outlet channels, indicating strong customer preference for physical retail.
+
+### 7. Q4 Seasonal Slowdown
+- Sales and profit declined during **Quarter 4**, suggesting the impact of seasonal demand fluctuations.
+
+---
+
+# Business Recommendations
+
+### 1. Strengthen Midwest Performance
+- Increase marketing efforts, expand distribution, and improve customer engagement to boost sales in the Midwest region.
+
+### 2. Launch Q4 Promotional Campaigns
+- Introduce seasonal discounts, holiday campaigns, and loyalty programs to reduce the Q4 sales decline.
+
+### 3. Expand Best-Selling Products
+- Increase inventory and promotional efforts for **Men's Street Footwear** to maximize revenue and profitability.
+
+### 4. Enhance Online Sales
+- Improve the online shopping experience and invest in digital marketing to reduce dependence on in-store sales.
+
+### 5. Optimize Low-Profit Products
+- Review pricing strategies, production costs, and promotional offers for **Women's Athletic Footwear** to improve profit margins.
+
+### 6. Prioritize High-Margin Products
+- Focus inventory planning and marketing investments on products that generate higher profitability.
+
+### 7. Leverage Data-Driven Decision Making
+- Utilize sales analytics for demand forecasting, inventory optimization, and strategic business planning.
+
+---
+
+## 📈 Project Outcome
+
+This dashboard enables stakeholders to monitor sales performance, identify regional and product trends, evaluate sales channels, and make data-driven decisions to improve revenue, profitability, and operational efficiency.
+
 
