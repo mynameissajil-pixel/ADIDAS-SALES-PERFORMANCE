@@ -14,14 +14,13 @@ Landing page of the report with navigation buttons to all other pages, giving us
 ### 2. Overview
 A high-level summary of overall business performance — total sales, total profit, units sold, and total orders, along with key trend visuals for a quick snapshot of company health.
 
-
-
+![](OVERVIEW.png)
 
 ### 3. Sales Analysis
 A deep dive into sales performance — revenue trends over time, sales by product category, and comparison across different segments to identify top and bottom performers.
 
 
-![](SALES_ANALYSIS.png)
+![](SALESANALYSIS.png)
 
 ### 4. Order Analysis
 Analyzes order volume and patterns — number of orders over time, average order value, and order distribution across retailers or sales channels.
