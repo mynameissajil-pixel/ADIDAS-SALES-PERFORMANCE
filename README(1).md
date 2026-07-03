@@ -2,10 +2,7 @@
 
 An interactive Power BI dashboard analyzing Adidas sales performance across regions, products, retailers, and customers — built to uncover trends in revenue, profitability, and order patterns.
 
-![Dashboard Preview](screenshots/home.png)
-*(Add a screenshot of your Home page here — see "How to Add Screenshots" below)*
 
----
 
 ## 📊 Dashboard Pages
 
@@ -57,36 +54,4 @@ Summarizes key findings from the analysis and provides actionable business recom
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — calculated measures and KPIs
 
-## 🚀 How to Use
 
-1. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free).
-2. Clone or download this repository.
-3. Open `my_project.pbix` in Power BI Desktop.
-4. If connected to a live data source, click **Refresh** to pull the latest data. If the data is embedded, it will load automatically.
-
-## 🖼️ How to Add Screenshots
-
-1. Open the `.pbix` file in Power BI Desktop.
-2. Go to each page → **File > Export > Export to PDF** (or use Snipping Tool for individual page images).
-3. Save images into a `screenshots/` folder in this repo (e.g., `screenshots/home.png`, `screenshots/sales-analysis.png`).
-4. Reference them in this README using `![Page Name](screenshots/filename.png)`.
-
-## 💡 Key Insights
-
-*[Add 2–4 bullet points summarizing your main findings from the Insights and Recommendations page, e.g.:]*
-- *[Region X] generated the highest sales and profit margin.*
-- *[Retailer Y] accounted for the largest share of total orders.*
-- *[Category Z] showed declining sales trend over the period, suggesting...*
-
-## 📌 Notes
-
-- This `.pbix` file is a binary format, so Git won't show meaningful diffs between versions — treat commits as full snapshots rather than line-by-line changes.
-- File size: ~4 MB (well within GitHub's limits, no Git LFS needed).
-
-## 📄 License
-
-*[Optional — e.g., MIT License, or "For portfolio/educational purposes only"]*
-
-## 📬 Contact
-
-*[Your name / LinkedIn / email — optional, useful if this is a portfolio piece]*
