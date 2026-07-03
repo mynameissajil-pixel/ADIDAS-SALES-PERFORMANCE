@@ -69,7 +69,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — calculated measures and KPIs
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 - **Strong Overall Sales:** Total sales reached **$899.9M**, demonstrating strong business performance and consistent market demand.
 - **Top Performing Region:** The **West** region recorded the highest sales and order volume, making it the company's best-performing market.
@@ -81,7 +81,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 
 ---
 
-## 🚀 Key Recommendations
+## Key Recommendations
 
 - **Boost Midwest Sales:** Increase regional marketing, promotional campaigns, and distribution to improve sales performance in the Midwest.
 - **Reduce Q4 Decline:** Launch seasonal promotions, holiday discounts, and customer engagement campaigns to maintain Q4 sales.
@@ -93,7 +93,7 @@ Summarizes key findings from the analysis and provides actionable business recom
 
 ---
 
-## 📈 Project Outcome
+## Project Outcome
 
 This dashboard enables stakeholders to monitor sales performance, identify regional and product trends, evaluate sales channels, and make data-driven decisions to improve revenue, profitability, and operational efficiency.
 
